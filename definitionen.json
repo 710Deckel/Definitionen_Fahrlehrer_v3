@@ -1,8 +1,29 @@
 {
   "verkehrsverhalten": [
     {
-      "begriff": "",
-      "definition": "",
+      "begriff": "Ständige Vorsicht (§ 1 Abs. 1 StVO)",
+      "definition": "Vorausschauendes Fahren, Fehler anderer erkennen, defensives Fahren (immer mit den Fehlern anderer rechnen). \"Ständig\" bedeutet: immer und überall mit Gefahren rechnen.\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Gegenseitige Rücksicht (§ 1 Abs. 1 StVO)",
+      "definition": "Verzichtendes Verhalten, um anderen zu helfen. Z.B. der Starke hilft dem Schwachen, der Ortskundige hilft dem Ortsfremden.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Verhalten (§ 1 StVO)",
+      "definition": "Alles tun, um die Ordnung zu erhalten, und alles zu unterlassen, was diese stören könnte.\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Schädigen (§ 1 Abs. 2 StVO)",
+      "definition": "Personen-, Sach-, Vermögensschaden und Umweltschaden (Schadenersatz, entgangener Gewinn).",
       "beispiele": "",
       "merkhilfen": "",
       "quellen": ""
