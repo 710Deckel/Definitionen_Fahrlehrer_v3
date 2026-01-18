@@ -286,6 +286,48 @@
       "beispiele": "",
       "merkhilfen": "",
       "quellen": ""
+    },
+    {
+      "begriff": "Richtgeschwindigkeit",
+      "definition": "Die empfohlene Geschwindigkeit auf Autobahnen beträgt 130 km/h. Sie ist keine Pflicht, sondern eine Empfehlung.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Tastgeschwindigkeit",
+      "definition": "Sehr langsames, vorsichtiges Herantasten an eine unübersichtliche Situation (noch langsamer als Schrittgeschwindigkeit).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Mindestgeschwindigkeit",
+      "definition": "Die Geschwindigkeit, die mindestens gefahren werden muss, wenn dies durch Verkehrszeichen vorgeschrieben ist (blaues rundes Schild mit weißer Zahl).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Höchstzulässige Geschwindigkeit",
+      "definition": "Die maximal erlaubte Geschwindigkeit, die durch Verkehrszeichen oder gesetzliche Regelungen (StVO) vorgegeben ist.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Fahrzeug abstellen",
+      "definition": "Siehe \"Parken\" - das Fahrzeug wird für längere Zeit oder beim Verlassen geparkt.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Gelbzeit",
+      "definition": "Die Dauer des Gelb-Signals an Ampeln beträgt je nach erlaubter Geschwindigkeit 3-5 Sekunden. Bei Gelb: wenn gefahrlos möglich anhalten, sonst zügig räumen.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
     }
   ],
   "recht": [
@@ -621,6 +663,160 @@
     {
       "begriff": "Kindersitze / Rückhalteeinrichtungen",
       "definition": "Die Rückhalteeinrichtungen sind nach der RiLi 2003/20/EG in fünf Gewichtsgruppen unterteilt:\n- Gruppe 0: Körpergewicht von weniger als 10 kg (in etwa bis 9 Monate)\n- Gruppe 0+: Körpergewicht bis 13 kg (bis etwa 18 Monate)\n- Gruppe I: Körpergewicht 9-18 kg (etwa 9 Monate bis 4 Jahre)\n- Gruppe II: Körpergewicht 15-25 kg (etwa 3,5 bis 7 Jahre)\n- Gruppe III: Körpergewicht 22-36 kg (etwa 6 bis 12 Jahre)",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "S-Pedelec",
+      "definition": "Speed-Pedelec: E-Bike mit Tretunterstützung bis 45 km/h. Gilt als Kleinkraftrad, benötigt Versicherungskennzeichen und Fahrerlaubnis AM.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "E-Bike",
+      "definition": "Elektrofahrrad mit Motorunterstützung ohne Tretpflicht. Gilt als Kleinkraftrad oder Leichtmofa, je nach Leistung.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Nutzfahrzeuge (NKW) - ERWEITERT",
+      "definition": "Dienen je nach Bauart und Einrichtungen der Beförderung von Personen oder Gütern sowie als Zugmaschinen für Fahrzeugkombinationen. (Bereits in Teil 3, hier zur Vollständigkeit)\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Ordnungswidrigkeit",
+      "definition": "Weniger schwere Verkehrsregelverletzung, die mit Bußgeld geahndet wird. Beispiele: Geschwindigkeitsüberschreitung, Parkverstoß, Rotlichtverstoß. Keine strafrechtliche Folge, aber Eintrag im Fahreignungsregister möglich. Wird durch Bußgeldbescheid geahndet.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Straftat (im Straßenverkehr)",
+      "definition": "Schwere Verkehrsregelverletzung, die mit Geld- oder Freiheitsstrafe geahndet wird. Beispiele: Fahren ohne Fahrerlaubnis (§ 21 StVG), Trunkenheit im Verkehr (§ 316 StGB), Gefährdung des Straßenverkehrs (§ 315c StGB), fahrlässige Körperverletzung (§ 229 StGB).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Gefährdung (strafrechtlich)",
+      "definition": "Verhalten, das andere Verkehrsteilnehmer in eine konkret gefährliche Lage bringt. Im Gegensatz zur abstrakten Gefährdung (Ordnungswidrigkeit) muss hier eine tatsächliche, konkrete Gefahrensituation eingetreten sein.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Grob verkehrswidrig",
+      "definition": "Besonders schwerwiegende und rücksichtslose Verletzung von Verkehrsregeln. Tatbestandsmerkmal der Gefährdung des Straßenverkehrs (§ 315c StGB). Beispiele: erhebliche Geschwindigkeitsüberschreitung, rücksichtsloses Überholen, Nichtbeachten der Vorfahrt.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Zulassung (§ 3 StVG)",
+      "definition": "Behördliche Verkehrserlaubnis für Kraftfahrzeuge auf öffentlichen Straßen durch Zuteilung eines amtlichen Kennzeichens. Setzt Betriebserlaubnis, Fahrzeugversicherung und Führung eines Fahrzeugscheins voraus. Ohne Zulassung darf das Fahrzeug nicht am öffentlichen Straßenverkehr teilnehmen.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Fahrzeugführer (§ 1a StVG)",
+      "definition": "Person, die ein Fahrzeug führt oder eine automatisierte Fahrfunktion aktiviert und verwendet. Bei automatisierten Fahrzeugen kann der Fahrzeugführer auch Aufgaben an das System delegieren, bleibt aber grundsätzlich verantwortlich.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "",
+      "definition": "",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Halter (§ 7 StVG)",
+      "definition": "Person, die das Fahrzeug für eigene Rechnung nutzt und Verfügungsgewalt darüber hat. Haftet für Schäden, die durch den Betrieb des Fahrzeugs entstehen (Gefährdungshaftung). Meist der Eigentümer, kann aber auch Leasingnehmer oder Dauermieter sein.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Berauschende Mittel (§ 24a StVG)",
+      "definition": "Alkohol, Betäubungsmittel und andere Substanzen, die die Fahrtüchtigkeit beeinträchtigen. Führen eines Kraftfahrzeugs unter Einfluss berauschender Mittel ist verboten. Bereits geringe Mengen von Cannabis, Amphetaminen, Kokain etc. erfüllen den Tatbestand einer Ordnungswidrigkeit.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Automatisierte Fahrfunktion (§ 1a StVG)",
+      "definition": "Technische Ausrüstung eines Kraftfahrzeugs zur automatischen Steuerung der Fahrzeugbewegung mit Übersteuerungsmöglichkeit durch den Fahrzeugführer. Bei Systemen der Stufe 3 (bedingt automatisiert) darf sich der Fahrer vom Verkehrsgeschehen abwenden, muss aber übernahmebereit bleiben.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Einziehung (§ 21 Abs. 3 StVG)",
+      "definition": "Entziehung des Eigentums an einem Fahrzeug bei schweren oder wiederholten Verstößen gegen das Verbot des Fahrens ohne Fahrerlaubnis. Das Fahrzeug geht in Staatseigentum über und wird verwertet. Soll Wiederholungstäter vom Fahren abhalten.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Bestimmungsgemäße Verwendung (§ 1b StVG)",
+      "definition": "Nutzung automatisierter Fahrsysteme entsprechend der Herstellervorgaben und Systembeschreibung. Der Fahrzeugführer darf das System nur unter den vom Hersteller vorgegebenen Bedingungen (z.B. nur auf Autobahnen, nur bis 60 km/h) verwenden.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Betriebserlaubnis (§ 19 StVZO)",
+      "definition": "Genehmigung für den Straßenverkehr nach technischer Prüfung eines Fahrzeugtyps. Bestätigt, dass das Fahrzeug den technischen Vorschriften entspricht. Erlischt bei unzulässigen Änderungen am Fahrzeug. Voraussetzung für die Zulassung.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Profiltiefe (§ 36 StVZO)",
+      "definition": "Mindesttiefe der Hauptrillen im Reifenprofil von 1,6 mm bei PKW und LKW bzw. 1 mm bei Kleinkrafträdern für ausreichende Bodenhaftung und Wasserableitung. Unterschreitung ist eine Ordnungswidrigkeit und gefährdet die Verkehrssicherheit, besonders bei Nässe.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Winterreifen (§ 2 Abs. 3a StVO, § 36 StVZO)",
+      "definition": "Reifen mit Alpine-Symbol (Bergpiktogramm mit Schneeflocke) für winterliche Wetterverhältnisse mit verbesserter Schnee- und Eishaftung. Müssen bei Glatteis, Schneeglätte, Schneematsch, Eis- oder Reifglätte verwendet werden (situative Winterreifenpflicht).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Alpine-Symbol",
+      "definition": "Bergpiktogramm mit Schneeflocke als Kennzeichnung für echte Winterreifen. Reifen mit diesem Symbol haben definierte Wintereigenschaften nachgewiesen. Seit 2018 Pflicht für neue Winterreifen, M+S-Kennzeichnung allein reicht nicht mehr aus.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "M+S-Reifen (Matsch-und-Schnee)",
+      "definition": "Reifen mit M+S-Kennzeichnung (Matsch und Schnee). Seit 2018 nicht mehr ausreichend für die Winterreifenpflicht - Alpine-Symbol erforderlich. Reifen mit M+S-Kennzeichnung, die vor dem 01.01.2018 hergestellt wurden, gelten noch bis 30.09.2024 als Winterreifen (Übergangsfrist abgelaufen).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Gleiskette (§ 37 StVZO)",
+      "definition": "Raupenantrieb für Spezialfahrzeuge (z.B. Baumaschinen, militärische Fahrzeuge, Pistenraupen) mit besonderen Anforderungen an Bodenschonung und Geländegängigkeit. Für normale Straßenfahrzeuge nicht zugelassen, da Straßenbelag beschädigt wird.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Eiserne Reifen (§ 37 StVZO)",
+      "definition": "Vollmetallreifen für langsamfahrende land- und forstwirtschaftliche Fahrzeuge sowie historische Fahrzeuge. Dürfen nur mit Sondergenehmigung und meist nur auf bestimmten Strecken verwendet werden, da sie den Straßenbelag stark beanspruchen.",
       "beispiele": "",
       "merkhilfen": "",
       "quellen": ""
@@ -1116,6 +1312,83 @@
       "beispiele": "Für Nutzfahrzeuge werden überwiegend schlauchlose Stahlgürtelreifen (Radialreifen) verwendet.",
       "merkhilfen": "",
       "quellen": ""
+    },
+    {
+      "begriff": "Übersetzungsverhältnis",
+      "definition": "Das Verhältnis zwischen treibendem und getriebenem Zahnrad. Bestimmt, ob Drehmoment oder Drehzahl übertragen wird.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Verschiedene Reibungsarten",
+      "definition": "",
+      "beispiele": "- Haftreibung: Reifen haftet auf der Fahrbahn (optimal)\n- Gleitreibung: Reifen rutscht/gleitet (bei Blockieren)\n- Rollreibung: Reifen rollt ab (normal beim Fahren)",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Nasssiedepunkt",
+      "definition": "Die Temperatur, bei der Bremsflüssigkeit trotz Wasseraufnahme noch nicht zu sieden beginnt. Wichtig für die Bremssicherheit.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Fading - Nachlassen der Bremswirkung",
+      "definition": "Durch Überhitzung der Bremsen (besonders bei Trommelbremsen) lässt die Bremswirkung nach.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Verglasung durch Reibung",
+      "definition": "Durch starke Reibung kann die Bremsbelagoberfläche verglasen und die Bremswirkung nimmt ab.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Schlupf",
+      "definition": "Der Unterschied zwischen Raddrehzahl und tatsächlicher Fahrgeschwindigkeit. Ein gewisser Schlupf ist notwendig für optimale Kraftübertragung.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Planetengetriebe",
+      "definition": "Ein Getriebe mit Planetenrädern, die um ein Sonnenrad kreisen. Wird in Automatikgetrieben verwendet.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Katalysator",
+      "definition": "Wandelt schädliche Abgase (CO, HC, NOx) in weniger schädliche Stoffe (CO₂, H₂O, N₂) um.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Pleuelstange",
+      "definition": "Verbindet den Kolben mit der Kurbelwelle und überträgt die Hubbewegung des Kolbens auf die Kurbelwelle.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Betriebsbremse",
+      "definition": "Die Bremse, die während der Fahrt zum Verzögern und Anhalten verwendet wird (Fußbremse).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Fußbremse",
+      "definition": "Die mit dem Fuß betätigte Betriebsbremse.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
     }
   ],
   "unterrichten": [
@@ -1400,9 +1673,94 @@
       "beispiele": "🚦 Didaktik fragt \"WAS und WARUM\"\n🛠️ Methodik fragt \"WIE\"  \n🧠 Pädagogik fragt \"WER und MIT WEM\"\n\nAlle drei Bereiche sind nach § 2 FahrlG als \"pädagogische, fachliche \nund methodische Eignung\" zwingend erforderlich!\n",
       "merkhilfen": "",
       "quellen": ""
+    },
+    {
+      "begriff": "Denken (Kognitiver Bereich)",
+      "definition": "Wissensvermittlung, Verständnis, Anwendung, Analyse - alles was mit geistiger Verarbeitung zu tun hat.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Fühlen (Affektiver Bereich)",
+      "definition": "Einstellungen, Werte, Emotionen - alles was mit Gefühlen und innerer Haltung zu tun hat.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Handeln (Psychomotorischer Bereich)",
+      "definition": "Praktische Fertigkeiten, Bewegungsabläufe, koordinative Fähigkeiten.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Binnendifferenzierung",
+      "definition": "Anpassung des Unterrichts an unterschiedliche Lernvoraussetzungen der Fahrschüler. Der Fahrlehrer berücksichtigt individuelle Stärken, Schwächen und Lerntempi und passt Methoden, Schwierigkeitsgrad und Übungen entsprechend an.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Lernkontrolle",
+      "definition": "Überprüfung des Lernerfolgs im theoretischen und praktischen Fahrunterricht. Dient der Feststellung, ob Lernziele erreicht wurden und welche Inhalte noch vertieft werden müssen. Beispiele: Verständnisfragen, Wiederholungen, praktische Übungen.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Ausbildungsstand",
+      "definition": "Aktueller Kenntnisstand und Fähigkeiten des Fahrschülers zu einem bestimmten Zeitpunkt der Ausbildung. Wird durch Beobachtung, Lernkontrollen und Feedbackgespräche ermittelt und dokumentiert.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Methodeneinsatz",
+      "definition": "Verwendung geeigneter Lehr- und Lernmethoden in der Fahrerausbildung. Umfasst didaktische Vorgehensweisen wie Vormachen-Nachmachen, fragend-entwickelndes Lehren, Gruppenarbeit oder mediengestützte Vermittlung.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Visualisierung",
+      "definition": "Veranschaulichung von Lerninhalten durch Medien und bildliche Darstellung. Einsatz von Bildern, Videos, Grafiken, Tafelbildern oder praktischen Demonstrationen zur besseren Verständlichkeit und Merkfähigkeit.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
     }
   ],
-  "weiterbilden": [],
+  "weiterbilden": [
+    {
+      "begriff": "Theoretische Prüfung",
+      "definition": "Nachweis ausreichender Kenntnisse der gesetzlichen Vorschriften für den Fahrerlaubniserwerb. Prüfung erfolgt durch computergestützte Fragen zu Verkehrsregeln, Technik und Umweltschutz. Erforderliche Mindestpunktzahl darf nicht überschritten werden.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Praktische Prüfung",
+      "definition": "Nachweis der sicheren Führung eines Kraftfahrzeugs im Verkehr. Der Prüfling muss unter Aufsicht eines amtlich anerkannten Sachverständigen oder Prüfers die praktischen Fahrkenntnisse und -fertigkeiten unter Beweis stellen.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Aufstieg (Stufenführerschein)",
+      "definition": "Vereinfachte Erweiterung der Motorrad-Fahrerlaubnis nach zweijährigem Besitz der Vorstufe. Ermöglicht den Aufstieg von A1 nach A2 oder von A2 nach A ohne erneute theoretische Prüfung - nur praktische Prüfung erforderlich.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Schlüsselzahl",
+      "definition": "Zusätzliche Beschränkung oder Auflage in der Fahrerlaubnis, eingetragen im Führerschein (z.B. 79.03 für dreirädrige Kraftfahrzeuge bei A1, 79.04 für Fahrzeugkombinationen mit mehr als 3500 kg bei B, 01 für Sehhilfe). Dokumentiert individuelle Einschränkungen oder Erlaubnisse.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    }
+  ],
   "erziehen": [],
   "pruefungsfragen": [],
   "beurteilen": []
