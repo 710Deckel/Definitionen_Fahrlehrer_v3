@@ -286,7 +286,347 @@
       "beispiele": "",
       "merkhilfen": "",
       "quellen": ""
+    }
+  ],
+  "recht": [
+    {
+      "begriff": "Öffentlicher Straßenverkehr (§ 1 FeV)",
+      "definition": "Alle für den Straßenverkehr oder einzelne Arten des Straßenverkehrs bestimmten Flächen, gleichgültig ob fließender oder ruhender Verkehr, ohne Rücksicht auf verwaltungsrechtliche Widmung oder auf die Eigentumsverhältnisse, aufgrund ausdrücklicher oder stillschweigender Duldung des Verfügungsberechtigten.\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
     },
+    {
+      "begriff": "Öffentlicher Verkehr ist gegeben wenn",
+      "definition": "Die Benutzung uneingeschränkt jedermann oder eingeschränkt nach einer bestimmten Personengruppe (Anlieger, Firmengruppen, Supermarktparkplatz-Benutzer) auch gegen Entgelt dauernd oder teilweise möglich ist und tatsächlich nicht nur gelegentlich benutzt wird. Charakteristisch: wird häufig verwechselt. Dagegen ist der Verkehr auf öffentlichen Straßen nicht öffentlich, solange diese z.B. wegen Bauarbeiten durch Absperrschranken oder ähnliche wirksame Mittel für alle Verkehrsarten gesperrt sind.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Nichtöffentlicher Verkehr",
+      "definition": "Öffentlichkeit endet mit einer eindeutigen, äußerlich manifestierten Handlung des Verfügungsberechtigten, die unmissverständlich klar macht, dass öffentlicher Verkehr nicht mehr geduldet wird. Für die Beurteilung öffentlich/nicht öffentlich müssen für den Benutzer erkennbare Maßnahmen vorgenommen sein: Beschilderung, Absperrung, isolierte Lage. Beschränkungsvorkehrungen und Kontrollen. Beispiele: Betriebsgelände (umschlossen), Kaserne.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Verkehrsteilnehmer (§ 2 FeV)",
+      "definition": "Jeder, der sich im öffentlichen Straßenverkehr aufhält und sich körperlich unmittelbar durch Tun oder Unterlassen verkehrserheblich verhält, ohne dass es auf Absicht oder Zweck ankommt. Alle Personen, die sich im Verkehrsraum befinden und auf das Verkehrsgeschehen einwirken können.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Aktiver Verkehrsteilnehmer",
+      "definition": "Wer sich ohne Rücksicht auf Absicht oder Zweck im öffentlichen Verkehrsraum aufhält und sich körperlich und unmittelbar verhält.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Passiver Verkehrsteilnehmer",
+      "definition": "Wer sich zwar im öffentlichen Verkehrsraum aufhält, aber das Verkehrsgeschehen nicht beeinflusst.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Kein anderer (§ 1 Abs. 2 StVO)",
+      "definition": "Alle Personen innerhalb und außerhalb des Verkehrsbereichs, z.B. Oma wird durch Fahrzeug lärmbelästigt.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Führen eines Kraftfahrzeugs (§ 4 FeV)",
+      "definition": "Ein Fahrzeug führt, wer es selbst unter bestimmungsgemäßer Anwendung seiner Antriebskräfte unter eigener alleiniger oder mitverantwortlicher Führung in Bewegung setzt, um es unter Handhabung seiner technischen Vorrichtungen während der Fahrbewegung durch den Verkehrsraum ganz oder wenigstens zum Teil zu leiten. Eine Minimalbewegung ist erforderlich.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Eignung (§ 2 Abs. 4 StVG)",
+      "definition": "Geeignet zum Führen von Kraftfahrzeugen ist, wer die notwendigen körperlichen und geistigen Anforderungen erfüllt und nicht erheblich oder nicht wiederholt gegen verkehrsrechtliche Vorschriften oder gegen Strafgesetze verstoßen hat.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Fahrerlaubnis (§ 2 FeV)",
+      "definition": "Die amtliche Erlaubnis der Verwaltungsbehörde als Vertreter des Staates (Bundesrepublik Deutschland), Kraftfahrzeuge der entsprechenden Klasse auf dem Hoheitsgebiet der Bundesrepublik Deutschland zu führen. Die Fahrerlaubnis wird mit Aushändigung des Führerscheins erteilt. Ersatzweise kann die Fahrerlaubnis, wenn diese noch nicht vorliegt, durch eine zeitlich befristete Prüfungsbescheinigung erteilt werden. Fahren ohne Fahrerlaubnis ist eine Straftat gemäß § 21 StVG.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Führerschein (§ 2 Abs. 2 FeV)",
+      "definition": "Die amtliche Bescheinigung über das Bestehen einer Fahrerlaubnis. Der Führerschein ist ein Dokument, das die Fahrerlaubnis nachweist und beim Führen eines Kraftfahrzeugs mitzuführen ist. Fahren ohne Führerschein stellt eine Ordnungswidrigkeit nach § 24 StVG dar.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Auflagen zur Fahrerlaubnis (§ 23 FeV)",
+      "definition": "Auflagen verpflichten den Kraftfahrzeugführer, bestimmte an seine Person oder das Kraftfahrzeug gebundene Vorrichtungen zu benutzen oder mitzuführen, um eine Sorgfaltspflicht gegenüber den anderen gerecht zu werden. Beispiele: Brille oder Kontaktlinsen tragen, Hörgeräteprothesen, Einhaltung bestimmter Höchstgeschwindigkeiten, Kraftfahrzeug nur bei Tageslicht führen, Kraftfahrzeug nur an bestimmten Orten oder über eine bestimmte Strecke zu führen, Anbringung eines zusätzlichen Außenspiegels, Anordnung einer ärztlichen Nachuntersuchung, Alkoholtester (Alkolock-System eingebaut). Die Auflagen richten sich in erster Linie an die Person des Fahrzeugführers und zur sicheren technischen Handhabung des Kraftfahrzeugs sind nicht erforderlich. Der Inhaber einer solchen Fahrerlaubnis ist in der Wahl des zu benutzenden Kraftfahrzeugs innerhalb seiner Klasse frei. Ein Verstoß ist eine Ordnungswidrigkeit.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Beschränkung der Fahrerlaubnis (§ 23 FeV)",
+      "definition": "Beschränkungen verpflichten den Kraftfahrzeugführer, entweder ein näher beschriebenes Kraftfahrzeug oder nur ein solches Kraftfahrzeug zu führen, welches mit bestimmten näher beschriebenen Einrichtungen ausgestattet ist, die das Bedienen des Kraftfahrzeugs ermöglichen bzw. erleichtern sollen und damit zur sicheren Fortbewegung des Kraftfahrzeugs erforderlich sind (Fahrzeuganpassung). Beispiele: Ausstattung mit Handgas, Automatikbeschränkung, Anbringung eines Lenkradknaufs, handbetätigte Betriebs- oder Fußbremse, Kraftfahrzeug mit einem bestimmten für die Fahrerlaubnis geringeren zGM, Kraftfahrzeug mit maximalem Hubraum.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Fahrverbot (§ 25 StVG, § 44 StGB)",
+      "definition": "Ein Verbot durch ein Gericht oder durch eine Verwaltungsbehörde, im Straßenverkehr Kraftfahrzeuge jeder Art oder einer bestimmten Art auf öffentlichen Straßen, Wegen und Plätzen zu führen. Die Fahrerlaubnis ruht nur und lebt wieder mit Ablauf des Fahrverbots auf. Der Führerschein wird für die Dauer des Fahrverbots amtlich verwahrt. Das Fahrverbot ist der \"Denkzettel\". Dauer: in der Regel 1-3 Monate.\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Entziehung der Fahrerlaubnis (§ 3 StVG, § 69 StGB)",
+      "definition": "Die Entziehung bezeichnet den behördlichen Vorgang, die Fahrerlaubnis, die zum Führen von Kraftfahrzeugen auf öffentlichem Verkehrsgrund berechtigt, zu entziehen. Die Entziehung erfolgt, wenn der Inhaber der Fahrerlaubnis sich jetzt als ungeeignet zum Führen von Kraftfahrzeugen erweist. Mit Entziehung der Fahrerlaubnis erlischt die Erlaubnis zum Führen von Kraftfahrzeugen. Das ist kein Denkzettel mehr, sondern schwerwiegender.\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Fahruntüchtigkeit (Fahrunsicherheit)",
+      "definition": "Ein unbestimmter Rechtsbegriff: das tatsächliche oder angenommene Unvermögen eines Fahrzeugführers, ein Fahrzeug jederzeit sicher zu führen. Dies kann durch Alkohol, Drogen, Krankheit oder andere Einflüsse hervorgerufen werden.\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Fahreignung",
+      "definition": "Gegensatz zur Fahruntüchtigkeit: hierunter versteht man die grundlegende körperliche und geistige Eignung zum Führen eines Kraftfahrzeugs. Sie wird von der Fahrerlaubnisbehörde geprüft und ist Voraussetzung für die Erteilung oder den Erhalt der Fahrerlaubnis.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Halteverbot",
+      "definition": "Ein Verkehrszeichen, das jegliches Halten und Parken untersagt. In einem Bereich mit Halteverbot darf das Fahrzeug weder kurz noch lang abgestellt werden - es gilt absolutes Halteverbot. (Beispiel: vor Feuerwehrzufahrten, auf Bahnübergängen.)\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Parkverbot",
+      "definition": "Ein Verkehrszeichen, das Parken verbietet, aber ein kurzfristiges Halten meist erlaubt (z.B. zum Be- oder Entladen). Häufig gilt Parkverbot z.B. vor Kreuzungen und Einmündungen (5 m Abstand zur Ecke).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Aufbauseminar (ASF)",
+      "definition": "Ein vom Gesetz vorgeschriebener Nachschulungskurs für Fahranfänger in der Probezeit, die gravierende Verkehrsverstöße begangen haben. Ziel ist es, das Fahrverhalten zu verbessern. Wird von der Fahrerlaubnisbehörde angeordnet und umfasst neben technischen Fahrübungen auch verkehrspädagogische Inhalte.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Begleitetes Fahren ab 17 (BF17)",
+      "definition": "Ein Programm, bei dem Fahrschüler ab 17 Jahren unter Auflage einer Begleitperson (älter als 30, seit ≥5 Jahren im Besitz der Klasse B) bereits Auto fahren dürfen. Die Fahrerlaubnis wird erst mit 18 Jahren ausgehändigt, erlaubt jedoch ab 17 die Fahrt in Anwesenheit des Begleiters.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Probezeit",
+      "definition": "Die zweijährige Bewährungszeit ab erstmaliger Erteilung der Fahrerlaubnis (Klasse A oder B). Innerhalb dieser Zeit gelten verschärfte Regelungen (u.a. Null-Promille für Alkohol, verpflichtende Aufbauseminare bei Verstößen).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "0,0 ‰-Regel (Alkoholverbot)",
+      "definition": "Fahranfängern in der Probezeit (bis 2 Jahre) und Fahrern unter 21 Jahren ist jeglicher Alkoholkonsum vor oder während der Fahrt verboten.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Sonderfahrten",
+      "definition": "Spezielle Pflichtstunden im praktischen Teil der Fahrausbildung (z.B. Autobahnfahrt, Überlandfahrt, Nachtfahrt). Diese zusätzlichen Fahrstunden (für Klasse B: 5x Überland, 4x Autobahn, 3x Nacht = 12 Sonderfahrten) dienen dazu, den Fahrschüler auf besondere Verkehrssituationen außerhalb des innerstädtischen Verkehrs vorzubereiten.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Fahrzeug",
+      "definition": "Ein nicht an Schienen gebundenes Landfahrzeug. Es umfasst als Oberbegriff alle motorisierten und nicht motorisierten Landfahrzeuge. Fahrzeuge haben keinen eigenen Antrieb - sie werden also geschoben, gezogen oder durch Muskelkraft der auf ihnen befindlichen Personen bewegt oder fortbewegt.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Zu Fahrzeugen gehören",
+      "definition": "PKW, LKW, Fahrräder, Fuhrwerke - also Fahrzeuge aller Art.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Keine Fahrzeuge sind",
+      "definition": "Kinderwagen, Inline-Skates, Rollerblades (siehe § 24 StVO).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Kraftfahrzeug (§ 1 Abs. 2 StVG)",
+      "definition": "Ein durch Motorkraft (Elektro- oder Verbrennungsmotor) angetriebenes, nicht an Schienen gebundenes Landfahrzeug.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Zweirädriges Kraftfahrzeug (PTW - Powered Two-Wheeler)",
+      "definition": "Oberbegriff für Krafträder und Kleinkrafträder. Ein zweirädriges Fahrzeug mit Antriebssystem, einschließlich zweirädriger Fahrräder mit Antriebssystem, zweirädriger Kleinkrafträder und Krafträder mit 2 Rädern.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Kraftrad / Motorrad",
+      "definition": "Üblicherweise ein einspuriges Kraftfahrzeug mit 2 Rädern, einem oder 2 Sitzplätzen, mit und ohne Beiwagen, das einen Antriebsmotor hat mit einem Hubraum von mehr als 50 cm³ und einer bauartbedingten Höchstgeschwindigkeit von mehr als 45 km/h. Fahrerlaubnisrechtlich werden unterschieden: Krafträder mit hoher Leistung (FE-Klasse A), Krafträder mit mittlerer Leistung (FE-Klasse A2) und Krafträder mit niedriger Leistung (FE-Klasse A1, auch Leichtkraftrad genannt).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Kleinkraftrad",
+      "definition": "Zweirädrige Kraftfahrzeuge der Fahrzeugklasse L1e und dreirädrige Kraftfahrzeuge der Fahrzeugklasse L2e mit einer bauartbedingten Höchstgeschwindigkeit von nicht mehr als 45 km/h.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Dreirädriges Kraftfahrzeug",
+      "definition": "Ein dreirädriges Fahrzeug mit Antriebssystem, das die Kriterien für die Einstufung als Fahrzeug der Klasse L5e erfüllt.\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Vierrädriges Kraftfahrzeug",
+      "definition": "Ein Fahrzeug mit 4 Rädern, das die Kriterien für die Einstufung als Fahrzeug der Klasse L6e oder L7e erfüllt.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Anhänger",
+      "definition": "Ein Fahrzeug auf Rädern ohne eigenen Antrieb, das dafür konstruiert und gebaut ist, von einem Kraftfahrzeug gezogen zu werden, und das zumindest um eine horizontale Achse normal zur Längsmittelebene oder um eine vertikale Achse parallel zur Längsmittelebene zu schwenken ist.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Sattelanhänger",
+      "definition": "Ein gezogenes Fahrzeug, dessen Achse oder Achsen bei gleichmäßiger Beladung hinter dem Masseschwerpunkt des Fahrzeugs angeordnet ist oder sind, und das mit einer Verbindungseinrichtung ausgerüstet ist, die die Übertragung horizontaler und vertikaler Kräfte zum Zugfahrzeug ermöglicht.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Besondere Fortbewegungsmittel",
+      "definition": "Schiebe- und Greifreifen-Rollstühle, Rodelschlitten, Kinderwagen, Roller, Kinderfahrräder, Inlineskates, Rollschuhe und ähnliche nicht motorbetriebene Fortbewegungsmittel. Gemäß StVO sind Schiebe- und Greifreifen-Rollstühle, Rodelschlitten, Kinderwagen, Roller, Kinderfahrräder und ähnliche nicht motorbetriebene oder mit einem Hilfsantrieb ausgerüstete Fortbewegungsmittel mit einer bauartbedingten Höchstgeschwindigkeit von nicht mehr als 6 km/h keine Fahrzeuge im Sinne der Straßenverkehrs-Zulassungsordnung. Fahrerlaubnisrechtlich liegt keine Definition hier vor.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Fahrrad",
+      "definition": "Ein Fahrzeug mit wenigstens 2 Rädern, das ausschließlich durch Muskelkraft auf ihm befindlicher Personen, insbesondere mit Hilfe von Pedalen oder Handkurbeln, angetrieben wird.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Pedelec (Fahrrad mit Hilfsantrieb)",
+      "definition": "Bezeichnung für \"Pedal Electric Cycle\". Ein zweirädriges Fahrzeug mit Antriebssystem mit Rädern, die für den Pedalantrieb ausgelegt sind, und mit einem Hilfsantrieb ausgerüstet, dessen Hauptzweck die Unterstützung der Pedalierung ist. Die Leistung des Hilfsantriebs wird bei 25 km/h unterbrochen und dessen Nenn-Dauerleistung oder Nutzleistung beträgt nicht mehr als 1000 Watt (in der Praxis: 250 Watt). Keine Kraftfahrzeuge im Sinne des Straßenverkehrsgesetzes sind Landfahrzeuge, die durch Muskelkraft bewegt werden und mit einem elektromotorischen Hilfsantrieb mit einer Nenndauerleistung von höchstens 0,25 kW ausgerüstet sind, dessen Unterstützung sich mit zunehmender Fahrzeuggeschwindigkeit progressiv verringert und beim Erreichen einer Geschwindigkeit von 25 km/h oder früher, wenn der Fahrer im Treten einhält, unterbrochen wird.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "E-Scooter (Elektrokleinstfahrzeug)",
+      "definition": "Elektro-Kleinfahrzeuge mit elektrischem Antrieb und einer bbH von nicht weniger als 6 km/h und nicht mehr als 20 km/h, ohne Sitz.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Selbstbalancierendes Fahrzeug",
+      "definition": "Ein Fahrzeugkonzept auf Grundlage eines labilen Gleichgewichtspunkts, das eine Zusatzsteuereinrichtung zur Beibehaltung des Gleichgewichts benötigt und einspurige Kraftfahrzeuge oder Kraftfahrzeuge mit 2 Rädern auf 2 Spuren umfasst.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Doppelrad",
+      "definition": "Zwei auf einer Achse montierte Räder, die als ein Rad angesehen werden und bei denen der Abstand zwischen dem Mittelpunkt der Aufstandsfläche der Reifen auf der Fahrbahn 460 mm oder weniger beträgt. (Siehe hierzu den berühmten Elenator)\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Kraftwagen",
+      "definition": "Kraftfahrzeuge, die üblicherweise auf der Straße zur Beförderung von Personen oder Gütern oder zum Ziehen von Fahrzeugen, die für die Personen- oder Güterbeförderung benutzt werden, dienen. Dieser Begriff schließt Oberleitungs-Omnibusse (nicht schienengebundene, mit einer elektrischen Leitung verbundene Fahrzeuge) ein. Land- und forstwirtschaftliche Zugmaschinen fallen nicht darunter.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Land- oder forstwirtschaftliche Zugmaschine",
+      "definition": "Kraftfahrzeuge, deren Funktion im Wesentlichen in der Erzeugung einer Zugkraft besteht und die besonders zum Ziehen, Schieben, Tragen und zum Antrieb von auswechselbaren Geräten für land- oder forstwirtschaftliche Arbeiten oder zum Ziehen von Anhängern in land- oder forstwirtschaftlichen Betrieben bestimmt und geeignet sind, auch wenn sie zum Transport von Lasten in Zusammenhang mit land- oder forstwirtschaftlichen Arbeiten eingerichtet oder mit Beifahrersitz ausgestattet sind.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Bauartbedingte Höchstgeschwindigkeit (bbH)",
+      "definition": "Die Geschwindigkeit, die von einem Kraftfahrzeug nach seiner vom Hersteller konstruktiv vorgegebenen Bauart oder infolge der Wirksamkeit zusätzlicher technischer Maßnahmen auf ebener Bahn bei bestimmungsgemäßer Benutzung nicht überschritten werden kann.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Leermasse",
+      "definition": "Das Gewicht des betriebsfertigen Fahrzeugs ohne austauschbare Ladungsträger, aber mit zu 90% gefüllten eingebauten Kraftstoffbehältern und zu 100% gefüllten Systemen für andere Flüssigkeiten, einschließlich des Gewichts aller im Betrieb mitgeführten Ausrüstungsteile, üblicherweise zuzüglich 75 kg als Fahrergewicht. Austauschbare Ladungsträger, die Fahrzeuge miteinander verbinden oder Zugkräfte übertragen, sind Fahrzeugteile.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Tatsächliche Gesamtmasse",
+      "definition": "Die tatsächliche Gesamtmasse ist das aktuelle Gewicht des Fahrzeugs im beladenen Zustand, also Leermasse plus tatsächliche Zuladung.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Zulässige Gesamtmasse (zGM)",
+      "definition": "Die zulässige Gesamtmasse bezeichnet die Summe aus Leermasse (Gewicht) plus maximal erlaubter Zuladung eines Kraftfahrzeugs oder einer Fahrzeugkombination. Zu finden in der Zulassungsbescheinigung Teil 1, Feld F.1 und F.2.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Kindersitze / Rückhalteeinrichtungen",
+      "definition": "Die Rückhalteeinrichtungen sind nach der RiLi 2003/20/EG in fünf Gewichtsgruppen unterteilt:\n- Gruppe 0: Körpergewicht von weniger als 10 kg (in etwa bis 9 Monate)\n- Gruppe 0+: Körpergewicht bis 13 kg (bis etwa 18 Monate)\n- Gruppe I: Körpergewicht 9-18 kg (etwa 9 Monate bis 4 Jahre)\n- Gruppe II: Körpergewicht 15-25 kg (etwa 3,5 bis 7 Jahre)\n- Gruppe III: Körpergewicht 22-36 kg (etwa 6 bis 12 Jahre)",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    }
+  ],
+  "technik": [
     {
       "begriff": "",
       "definition": "",
@@ -295,8 +635,6 @@
       "quellen": ""
     }
   ],
-  "recht": [],
-  "technik": [],
   "unterrichten": [],
   "ausbilden": [],
   "weiterbilden": [],
