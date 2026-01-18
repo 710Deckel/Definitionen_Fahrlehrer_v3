@@ -1120,14 +1120,288 @@
   ],
   "unterrichten": [
     {
-      "begriff": "",
-      "definition": "",
+      "begriff": "Didaktik",
+      "definition": "Die Wissenschaft und Kunst des Lehrens und Lernens. Didaktik beschreibt, WAS gelehrt wird und WARUM. Sie befasst sich mit der Auswahl und Strukturierung von Lerninhalten sowie der Begründung von Lehrzielen. Nach § 2 Abs. 1 FahrlG ist \"pädagogische, fachliche und methodische Eignung\" zwingend erforderlich.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Didaktische Analyse",
+      "definition": "ystematische Überlegung vor dem Unterricht: Welche Ziele, Inhalte, Methoden und Voraussetzungen? Nach Klafki: Frage nach gegenwärtiger und zukünftiger Bedeutung, exemplarischer Bedeutung, Zugänglichkeit und thematischer Struktur. Zwingend für Unterrichtsvorbereitung und Prüfung (§ 2 FahrlG, Anlage 2 FahrlG: \"Anfertigung von Unterrichtsentwürfen\").",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Didaktische Reduktion",
+      "definition": "Komplexe Inhalte werden auf das Wesentliche vereinfacht, damit Anfänger sie verstehen können. Der Stoff wird auf den Kern reduziert, ohne dass wichtige Zusammenhänge verloren gehen. Nach § 2 FahrlG muss Unterricht \"adressatengerecht\" sein - Schüler dürfen nicht überfordert werden.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Lernziel",
+      "definition": "Aussage darüber, was Schüler am Ende einer Unterrichtseinheit können oder wissen sollen. Wird messbar und überprüfbar formuliert (z.B. \"Die Schüler können erklären, wann der Schulterblick erforderlich ist\"). Der Rahmenstoffplan laut FahrschAusbO enthält konkrete Lernziele für jede Lektion.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Lernzielarten",
+      "definition": "Unterscheidung nach Abstraktionsgrad und Reichweite:\n- **Richtziel**: Abstrakt, uneindeutig, zerteilbar (z.B. § 1 Abs. 1 FahrschAusbO: \"Befähigung zum sicheren, verantwortungsvollen und umweltbewussten Verkehrsteilnehmer\")\n- **Grobziel**: Mischung aus Richtziel und Feinziel, teilbar (z.B. § 1 Abs. 2 FahrschAusbO)\n- **Feinziel**: Konkret, eindeutig, nicht teilbar, für einzelne Unterrichtsstunden",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Stoffverteilungsplan",
+      "definition": "Jahres- oder Wochenplan, der festlegt, wann welches Thema behandelt wird. Stellt sicher, dass alle vorgeschriebenen Lektionen systematisch und vollständig behandelt werden. Nach FahrschAusbO ist \"systematische Ausbildung\" erforderlich.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Unterrichtsplanung / Unterrichtsentwurf",
+      "definition": "Detaillierte Planung einer einzelnen Unterrichtsstunde: Ablauf, Methoden, Medien, Lernziel, Einstieg, Erarbeitung, Sicherung. Nach Anlage 2 FahrlG Pflichtteil der Fahrlehrerausbildung und -prüfung.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Kompetenzorientierung",
+      "definition": "Unterricht soll nicht nur Wissen vermitteln, sondern auch Können, Fertigkeiten und Haltungen (= Kompetenz). Nach FahrschAusbO ist \"Handlungsfähigkeit im Verkehr\" das Ziel - Schüler sollen in echten Situationen richtig handeln können, nicht nur auswendig aufsagen.\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Methodik",
+      "definition": "Die Lehre von den Wegen und Mitteln, mit denen Lehrziele erreicht werden. Methodik fragt \"WIE\" - wie vermittle ich den Stoff am besten? Nach § 2 FahrlG ist \"pädagogische, fachliche und methodische Eignung\" zwingend erforderlich.\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Lehrmethoden",
+      "definition": "Konkrete Verfahren und Vorgehensweisen im Unterricht,",
+      "beispiele": "- Frontalunterricht (Lehrervortrag)\n- Lehrgespräch (fragend-entwickelnd)\n- Gruppenarbeit\n- Partnerarbeit\n- Rollenspiel\n- Demonstration\n- Stationenlernen\nDer Rahmenlehrplan erwartet den Einsatz verschiedener Methoden für Abwechslung und Aktivierung.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Medien",
+      "definition": "Alle Hilfsmittel, die den Unterricht unterstützen: Tafeln, Whiteboards, Bilder, Videos, Modelle, Simulatoren, Apps, PowerPoint-Präsentationen. Nach FahrschAusbO ist \"Verwendung geeigneter Medien\" zwingend erforderlich - Unterricht ohne Medien ist kaum denkbar.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Aktivierende Methoden",
+      "definition": "Methoden, die Schüler aktiv einbeziehen und zum Mitmachen anregen, z.B. Brainstorming, Diskussion, Rollenspiel, Quiz, Gruppenarbeit. Heute Standard in der Erwachsenenbildung, da Schüler besser lernen, wenn sie selbst nachdenken und handeln (handlungsorientierter Unterricht).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Sicherung",
+      "definition": "Unterrichtsteil am Ende, in dem Ergebnisse zusammengefasst, wiederholt und fixiert werden. Schüler sollen am Ende wissen: \"Das ist das Wichtigste, was ich heute gelernt habe.\" Teil jedes Unterrichtsentwurfs in der Fahrlehrerausbildung.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Wiederholung",
+      "definition": "Stoff wird später erneut behandelt oder abgefragt, um das Gelernte zu festigen und im Langzeitgedächtnis zu verankern. Nicht wörtlich im Gesetz, aber Teil guter Unterrichtsgestaltung und didaktische Grundregel.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Pädagogik",
+      "definition": "Wissenschaft vom Erziehen und Bilden. Fokus auf Beziehung zwischen Lehrenden und Lernenden, Haltung, Werte, Persönlichkeitsentwicklung. Pädagogik fragt \"WER und MIT WEM\". Nach § 2 FahrlG ist \"pädagogische Eignung\" zwingend erforderlich.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Motivation",
+      "definition": "Innerer oder äußerer Anreiz, der Schüler zum Lernen bewegt. Aufgabe des Fahrlehrers ist es, Motivation zu schaffen durch interessante Einstiege, Praxisbezug, Erfolgserlebnisse, Lob. Ohne Motivation hören Schüler nicht zu oder lernen nicht nachhaltig.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Beziehungsarbeit",
+      "definition": "Aufbau von Vertrauen, Respekt und einer positiven Beziehung zwischen Fahrlehrer und Fahrschüler. Basis für erfolgreichen Unterricht - wenn die Beziehung stimmt, trauen sich Schüler Fragen zu stellen und öffnen sich.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Feedback",
+      "definition": "Rückmeldung an Schüler über deren Leistungen, Fortschritte und Verbesserungsmöglichkeiten. Auch: Rückmeldung von Schülern an den Fahrlehrer. Teil der Reflexion in der Fahrlehrerausbildung. Gutes Feedback ist konkret, konstruktiv und zeitnah.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Individualisierung",
+      "definition": "Anpassung des Unterrichts an individuelle Unterschiede zwischen Schülern (Lerngeschwindigkeit, Vorkenntnisse, Schwierigkeiten). Nicht alle lernen gleich schnell - stärkere Schüler bekommen Zusatzaufgaben, schwächere mehr Übung und Erklärung.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Berufliche Handlungsfähigkeit",
+      "definition": "Ausbildungsziel in der beruflichen Bildung (auch Fahrausbildung): Die Fähigkeit, fachliche Aufgaben selbstständig zu planen, durchzuführen, zu kontrollieren und zu bewerten. Umfasst fachliche, methodische, soziale und personale Kompetenzen.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Selbstlernkompetenz",
+      "definition": "Fähigkeit, den eigenen Lernprozess zu steuern (Lernziele setzen, Ressourcen nutzen) und sich Wissen eigenverantwortlich anzueignen. Fahrschüler sollen zunehmend selbständig lernen und Probleme lösen können.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Feedbackgespräch",
+      "definition": "Gezielte Rücksprache zwischen Fahrlehrer und Fahrschüler zur Rückmeldung über den Lernstand. Regelmäßige Feedbackgespräche fördern Lernmotivation, verhindern Missverständnisse und helfen dem Schüler, eigene Stärken und Schwächen zu reflektieren.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Unterweisung",
+      "definition": "Gezielter Unterrichtsvorgang im Fahrschulunterricht (z.B. Erklären einer Fahrtechnik oder Verkehrsregel). Der Fahrlehrer nutzt didaktische Methoden (Erklärung, Demonstration, Nachfahren) und gibt Beispiele oder Übungshinweise.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Kommunikation",
+      "definition": "Austausch von Informationen zwischen Fahrlehrer und Fahrschüler. Klare Kommunikation (Anweisungen, Rückmeldungen, Fragen) ist essentiell für effektiven Fahrschulunterricht. Umfasst Sprache, Ton und Körpersprache des Lehrers.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Unterrichtseinheit (UE)",
+      "definition": "eitliche Einheit für theoretischen Unterricht von 90 Minuten. Nach FahrschAusbO erfolgt theoretischer Unterricht in Einheiten von 90 Minuten. Dient der strukturierten Zeitaufteilung für optimales Lernen.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Kompetenzbereiche",
+      "definition": "Strukturierung der Lehrinhalte nach Fachbereichen im Rahmenstoffplan. Die sechs Kompetenzbereiche sind Zwingend nach Lehrplan/Rahmenplan für systematische Abdeckung aller relevanten Bereiche.",
+      "beispiele": "1. Verkehrsverhalten\n2. Recht\n3. Technik\n4. Unterrichten\n5. Ausbilden\n6. Weiterbilden\n7. Erziehen\n8. Prüfungsfragen\n9. Beurteilen\n",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Curricularer Bezug",
+      "definition": "Bezug zum offiziellen Lehrplan und Rahmenstoffplan. Jede Unterrichtsstunde muss sich auf den vorgeschriebenen Lehrplan beziehen. Zwingend zur Sicherstellung der vollständigen Ausbildung nach gesetzlichen Vorgaben.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Praktische Ausbildung",
+      "definition": "Fahrstunden im Fahrzeug mit Fahrlehrer zur Anwendung des theoretischen Wissens in der Praxis. Nach FahrschAusbO zwingend vorgeschrieben. Umfasst Grundfahraufgaben und Sonderfahrten (Überland, Autobahn, Nacht).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Theoretische Ausbildung",
+      "definition": "Unterricht im Klassenraum zu Verkehrsregeln, Technik und Verhalten. Nach FahrschAusbO zwingend vorgeschrieben. Mindestanzahl: 12 Doppelstunden Grundstoff + 2 Doppelstunden klassenspezifischer Stoff (Klasse B).\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Reflexion",
+      "definition": "Nachdenken über den eigenen Unterricht, die eigene Lehrtätigkeit und Verbesserungsmöglichkeiten. Fragen: \"Was lief gut? Was kann ich besser machen? Haben die Schüler das Lernziel erreicht?\" Teil der Fahrlehrerausbildung und -prüfung, zwingend für Qualitätssicherung.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Binnendifferenzierung",
+      "definition": "Anpassung des Unterrichts an unterschiedliche Lernvoraussetzungen der Fahrschüler innerhalb einer Lerngruppe. Der Fahrlehrer berücksichtigt individuelle Stärken, Schwächen, Lerntempi und passt Methoden, Schwierigkeitsgrad und Übungen entsprechend an.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Lernkontrolle",
+      "definition": "Überprüfung des Lernerfolgs im theoretischen und praktischen Fahrunterricht. Dient der Feststellung, ob Lernziele erreicht wurden und welche Inhalte noch vertieft werden müssen. Beispiele: Verständnisfragen, Wiederholungen, praktische Übungen.",
       "beispiele": "",
       "merkhilfen": "",
       "quellen": ""
     }
   ],
-  "ausbilden": [],
+  "ausbilden": [
+    {
+      "begriff": "Ausbildungsstand",
+      "definition": "Aktueller Kenntnisstand und Fähigkeiten des Fahrschülers zu einem bestimmten Zeitpunkt der Ausbildung. Wird durch Beobachtung, Lernkontrollen und Feedbackgespräche ermittelt und dokumentiert.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Methodeneinsatz",
+      "definition": "Verwendung geeigneter Lehr- und Lernmethoden in der Fahrerausbildung. Umfasst didaktische Vorgehensweisen wie Vormachen-Nachmachen, fragend-entwickelndes Lehren, Gruppenarbeit oder mediengestützte Vermittlung.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Visualisierung",
+      "definition": "Veranschaulichung von Lerninhalten durch Medien und bildliche Darstellung. Einsatz von Bildern, Videos, Grafiken, Tafelbildern oder praktischen Demonstrationen zur besseren Verständlichkeit und Merkfähigkeit.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Lernziel",
+      "definition": "Ein Lernziel formuliert das Verhalten, welches ein Lernender nach dem Lernprozess zeigen soll.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Werte, Normen & Regeln",
+      "definition": "- **Werte**: Allgemeine Richtlinie für gut & böse (z.B. Gesundheit, Sicherheit, Leben)\n- **Normen**: Verhaltenserwartung für bestimmte Situationen\n- **Regeln**: Den Alltag bestimmende Vorschriften",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Zwischenmenschliche Werte",
+      "definition": "Eine allgemeine Richtlinie für gut und böse, die wir in uns tragen. Beispiele: Gesundheit, Menschenwürde, Sicherheit, Leben.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Exemplarische Vertiefung",
+      "definition": "Schon Erlebtes auf andere Situationen übertragen und widerspiegeln. Anhand eines Beispiels werden allgemeine Prinzipien verdeutlicht, die dann auf andere Situationen anwendbar sind.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Merksatz Didaktik, Methodik, Pädagogik",
+      "definition": "MERKSATZ siehe Beispiele!",
+      "beispiele": "🚦 Didaktik fragt \"WAS und WARUM\"\n🛠️ Methodik fragt \"WIE\"  \n🧠 Pädagogik fragt \"WER und MIT WEM\"\n\nAlle drei Bereiche sind nach § 2 FahrlG als \"pädagogische, fachliche \nund methodische Eignung\" zwingend erforderlich!\n",
+      "merkhilfen": "",
+      "quellen": ""
+    }
+  ],
   "weiterbilden": [],
   "erziehen": [],
   "pruefungsfragen": [],
