@@ -628,6 +628,498 @@
   ],
   "technik": [
     {
+      "begriff": "Motor",
+      "definition": "",
+      "beispiele": "Hat die Aufgabe, die erforderliche Kraft für den Fahrzeugantrieb zu erzeugen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Hubraum",
+      "definition": "",
+      "beispiele": "Volumen (VH) des einzelnen Zylinders. Es ist der Zylinderraum zwischen den beiden Totpunkten.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Äußere Gemischbildung",
+      "definition": "",
+      "beispiele": "Der Kraftstoff wird mit der Luft außerhalb des Verbrennungsraums gemischt.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Innere Gemischbildung",
+      "definition": "",
+      "beispiele": "Der Kraftstoff wird mit der Luft innerhalb des Verbrennungsraums gemischt. Alle Dieselmotoren arbeiten mit innerer Gemischbildung.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Verdichtungsverhältnis",
+      "definition": "Das Verhältnis von Hubraum plus Verdichtungsraum zu Verdichtungsraum.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Vollständige Verbrennung",
+      "definition": "",
+      "beispiele": "Für die theoretische vollständige Verbrennung von 1 kg Normalkraftstoff werden 14,8 kg Luft benötigt, oder: 1 Liter Ottokraftstoff benötigt zur Verbrennung etwa 10.000 Liter Luft.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Luftverhältnis",
+      "definition": "",
+      "beispiele": "Das Verhältnis zwischen der tatsächlich dem Kraftstoff zugefügten Luftmasse und dem theoretischen Luftbedarf.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Drosselklappenwinkel",
+      "definition": "",
+      "beispiele": "Ein großer Drosselklappenwinkel und eine hohe Motor-Drehzahl erfordern eine große Einspritzmenge und umgekehrt.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Leerlaufregelung",
+      "definition": "",
+      "beispiele": "Die Verstellung des Zündzeitpunkts nach früh bis spät erfolgt durch das Steuergerät, indem es den Primärstrom früher oder später unterbricht.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Zündzeitpunkt",
+      "definition": "",
+      "beispiele": "Die Verstellung des Zündzeitpunkts nach früh bis spät erfolgt durch das Steuergerät, indem es den Primärstrom früher oder später unterbricht.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Motronic",
+      "definition": "",
+      "beispiele": "Die Motronic steuert in ihrer Grundfunktion Einspritzung und Zündung durch ein gemeinsames Steuergerät. Die Sensoren für die Betriebsdatenerfassung der Einspritzung werden auch für die Verstellung der Zündung genutzt.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Klopfen",
+      "definition": "",
+      "beispiele": "Die unkontrollierte Selbstzündung von Gemisch an Teilen mit anschließender schlagartiger Verbrennung.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Klopfregelung",
+      "definition": "",
+      "beispiele": "Hat die Aufgabe, den Zündzeitpunkt und damit den Druck im Verbrennungsraum so zu regeln, dass die Verbrennung möglichst nahe der Klopfgrenze verläuft.\n",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "CO₂-Anteil im Abgas",
+      "definition": "",
+      "beispiele": "Der klimaschädliche CO₂-Anteil im Abgas kann durch Abgasreinigung nicht reduziert werden, sondern nur durch Verringerung des Kraftstoffverbrauchs.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Dieselmotor",
+      "definition": "",
+      "beispiele": "Der Dieselmotor arbeitet in allen Betriebszuständen mit Luftüberschuss.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Hochdrucksystem",
+      "definition": "",
+      "beispiele": "Das Hochdrucksystem hat die Aufgabe, den Einspritzdruck zu erzeugen und den Injektoren zuzuführen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Pumpe-Düse-Einspritzsystem",
+      "definition": "Das Pumpe-Düse-Einspritzsystem hat für jeden Zylinder eine separate Einspritzeinheit.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Einspritzdruck",
+      "definition": "",
+      "beispiele": "Der Einspritzdruck wird durch einen Pumpenkolben erzeugt, der eine Dreh- und Hubbewegung gleichzeitig durchführt.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Oktan- und Cetanzahl",
+      "definition": "",
+      "beispiele": "Die Klopffestigkeit von Ottomotoren wird durch die Oktanzahl bestimmt. Ein Maß für die Zündwilligkeit von Dieselkraftstoff ist die Cetanzahl.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Kurbeltrieb",
+      "definition": "",
+      "beispiele": "Hat die Aufgabe, die geradlinige Bewegung des Kolbens über die Pleuelstange in eine Drehbewegung der Kurbelwelle umzuwandeln.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Motorsteuerung",
+      "definition": "",
+      "beispiele": "Hat die Aufgabe, das Einströmen der Frischgase und das Ausströmen der Abgase aus dem Verbrennungsraum zu steuern.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Nockenwelle",
+      "definition": "",
+      "beispiele": "Dreht sich mit halber Kurbelwellen-Drehzahl, weil jedes Ventil einmal je 2 Kurbelwellenumdrehungen betätigt werden muss.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Ventile",
+      "definition": "",
+      "beispiele": "Haben die Aufgabe, im geschlossenen Zustand den Verbrennungsraum gegenüber dem Einlass- bzw. Auslasskanal abzudichten.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Turbolader",
+      "definition": "",
+      "beispiele": "Als Antriebsenergie für das Verdichterrad des Turboladers wird die Energie der ausströmenden Abgase genutzt.\n\n",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Motoröl",
+      "definition": "",
+      "beispiele": "Der Temperatureinsatzbereich und die Qualität eines Motoröls werden weitgehend durch seine Additive bestimmt. Es dürfen grundsätzlich nur vom Fahrzeughersteller freigegebene Öle verwendet werden.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Kühlsystem",
+      "definition": "",
+      "beispiele": "Das Kühlsystem des Verbrennungsmotors hat die Aufgabe, die von den Motorbauteilen aufgenommene Wärme an die Umgebungsluft abzuführen. Die Kühlflüssigkeit strömt in einem geschlossenen Kreislauf.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Thermostat",
+      "definition": "",
+      "beispiele": "Regelt die Kühlflüssigkeitsmenge, die durch den Kühler fließt, und damit die Betriebstemperatur des Motors.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Kraftübertragung",
+      "definition": "",
+      "beispiele": "Hat die Aufgabe, die Drehzahl und das Drehmoment des Motors zu verändern und auf die Antriebsräder zu übertragen.\n",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Kupplung",
+      "definition": "",
+      "beispiele": "Eine lösbare Verbindung zur Kraftübertragung zwischen Motor und Schaltgetriebe.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Getriebe - Drehmoment und Drehzahl",
+      "definition": "",
+      "beispiele": "Am getriebenen Zahnrad entsteht ein hohes Drehmoment bei geringer Drehzahl, wenn das getriebene Zahnrad größer ist als das treibende Zahnrad, und ein geringes Drehmoment bei hoher Drehzahl, wenn das getriebene Zahnrad kleiner ist als das treibende Zahnrad.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Automatikgetriebe",
+      "definition": "",
+      "beispiele": "Haben die Aufgabe, die für den jeweiligen Betriebszustand des Fahrzeugs erforderliche Übersetzung selbstständig zu schalten. Die elektronische Steuerung bestimmt die Schaltpunkte.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Hydrodynamischer Drehmomentwandler",
+      "definition": "",
+      "beispiele": "Ist zwischen Motor und Getriebe angeordnet. Er dient der Drehmomenterhöhung und dem Anfahren.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Achsgetriebe",
+      "definition": "",
+      "beispiele": "Haben die Aufgabe, das Drehmoment vom Getriebe zu den Antriebsrädern zu leiten, die Getriebeausgangsdrehzahl abzusenken sowie das Drehmoment zu steigern.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Ausgleichsgetriebe (Differential)",
+      "definition": "",
+      "beispiele": "Haben die Aufgabe, unterschiedliche Raddrehzahlen der Antriebsräder zu ermöglichen und das Drehmoment auch bei unterschiedlichen Raddrehzahlen zu gleichen Teilen auf die Antriebsräder zu verteilen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Alternative Antriebe",
+      "definition": "",
+      "beispiele": "Haben im Wesentlichen die Aufgabe, die Emission von gesundheits- sowie klimaschädlichen Abgasen zu reduzieren bzw. diese vollständig zu vermeiden.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Hybridantrieb",
+      "definition": "",
+      "beispiele": "Eine Kombination aus mindestens 2 unterschiedlichen Antriebsarten mit jeweils 2 unabhängigen Energiespeichern.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Brennstoffzelle",
+      "definition": "",
+      "beispiele": "In der Brennstoffzelle wird elektrischer Strom aus Wasserstoff gewonnen. Das geschieht durch die Umkehrung der Elektrolyse.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Federung",
+      "definition": "",
+      "beispiele": "Die Eigenschaften einer Feder werden durch den Verlauf ihrer Federkennlinie dargestellt. Schraubenfedern und Drehstabfedern müssen aufgrund ihrer geringen Eigendämpfung immer mit zusätzlichen hydraulischen Schwingungsdämpfern kombiniert werden.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Dämpfung",
+      "definition": "",
+      "beispiele": "Die Dämpfungskraft entsteht durch den Strömungswiderstand des Öls an den Bohrungen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Lenkung",
+      "definition": "",
+      "beispiele": "Die Lenkung von Kraftfahrzeugen hat die Aufgabe, die Drehbewegung des Lenkrads in eine Schwenkbewegung der Vorderräder umzuwandeln. Für die Kreisfahrt ohne Gleitbewegung der Vorderräder müssen sich die Mittellinien der verlängerten Achsschenkel und der Hinterräder in einem Punkt schneiden. Bei Ausfall der elektrischen bzw. hydraulischen Hilfskraft kann die Lenkung mit erhöhtem Kraftaufwand bedient werden.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Eigenlenkverhalten",
+      "definition": "",
+      "beispiele": "ennzeichnet das Verhalten von Fahrzeugen bei Kurvenfahrt. Zur Beurteilung des Eigenlenkverhaltens werden die Schräglaufwinkel der Vorder- und Hinterachse verglichen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Bremsen - Fading",
+      "definition": "",
+      "beispiele": "Die Radbremsen können sich durch hohe Beanspruchung stark aufheizen, was zum Nachlassen der Bremswirkung (Fading) führen kann.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "ABS (Antiblockiersystem)",
+      "definition": "",
+      "beispiele": "Elektronisches Bremsassistenzsystem, das verhindert, dass Räder bei einer Vollbremsung blockieren. Durch kurzes Lösen und erneutes Betätigen der Bremsen (Pulsieren) bleibt das Fahrzeug auch in einer Gefahrenbremsung lenkbar. Das Antiblockiersystem hat die Aufgabe, während des Bremsens ein Blockieren der Räder zu verhindern und gleichzeitig die Lenkfähigkeit des Fahrzeugs zu erhalten. Die Übertragung von Seiten- und Führungskräften eines ungebremsten Rades ist stets besser als die eines bremsenden Rades.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "ASR (Antriebsschlupfregelung)",
+      "definition": "",
+      "beispiele": "Die Anti-Schlupfregelung hat die Aufgabe, das Durchdrehen der Antriebsräder beim Anfahren zu verhindern. Dadurch bleiben Lenkfähigkeit und Fahrstabilität, insbesondere auf glatten Fahrbahnen und beim Beschleunigen in Kurven, erhalten.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "ESP (Elektronisches Stabilitätsprogramm)",
+      "definition": "",
+      "beispiele": "Erweiterung des ABS: ein elektronisches Fahrstabilitäts-Assistenzsystem, das mittels selektiven Abbremsens einzelner Räder ein Ausbrechen oder Schleudern des Fahrzeugs verhindern soll. Seit November 2014 ist ESP bei Neufahrzeugen in der EU Pflicht. Das elektronische Stabilitätsprogramm hat die Aufgabe, durch Eingriff in die Bremsen und in das Motormanagement ein ausbrechendes Fahrzeug bei Kurvenfahrten zu verhindern. Zeigt das Fahrzeug eine Tendenz zum Untersteuern, so wird das kurveninnere Hinterrad abgebremst. Beim Übersteuern wird das kurvenäußere Vorderrad abgebremst.\n",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "RDKS (Reifendruckkontrollsystem)",
+      "definition": "",
+      "beispiele": "Reifendruckkontrollsysteme haben die Aufgabe, den Fahrer über einen Abfall des Luftdrucks im Reifen zu informieren. Zu geringer Reifen-Luftdruck erhöht den Rollwiderstand und damit den Kraftstoffverbrauch.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Luftwiderstand",
+      "definition": "",
+      "beispiele": "Eine Verdoppelung der Fahrgeschwindigkeit bewirkt eine Vervierfachung des Luftwiderstands und erfordert etwa das Achtfache an Motorleistung.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Aktive Sicherheit",
+      "definition": "",
+      "beispiele": "Alles, was zur Verhinderung von Unfällen beiträgt (z.B. ABS, ESP, gute Bremsen, helle Scheinwerfer, Sichtverhältnisse).",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Passive Sicherheit",
+      "definition": "",
+      "beispiele": "Alles, was zur Verminderung von Unfallfolgen beiträgt (z.B. Airbag, Gurt, Knautschzone, Kopfstützen).",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Luftmassenmesser",
+      "definition": "",
+      "beispiele": "Haben die Aufgabe, die angesaugte Luftmasse für Benzin- und Dieseleinspritzanlagen zu erfassen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Drucksensoren",
+      "definition": "",
+      "beispiele": "Haben die Aufgabe, Gas- und Flüssigkeitsdrücke zu erfassen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Drehzahlsensoren",
+      "definition": "",
+      "beispiele": "Haben die Aufgabe, Drehzahl, Wegstrecken und Drehwinkel zu erfassen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Induktivgeber",
+      "definition": "",
+      "beispiele": "Arbeitet nach dem Prinzip der elektromagnetischen Induktion.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Lambda-Sonde",
+      "definition": "",
+      "beispiele": "Hat die Aufgabe, den Restsauerstoffgehalt im Abgas als Messgröße für die Gemischzusammensetzung zu erfassen. Mageres Gemisch mit hohem Sauerstoffgehalt im Abgas ergibt eine geringe Sondenspannung. Fettes Gemisch mit geringem Sauerstoffgehalt im Abgas ergibt eine hohe Sondenspannung.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Magnetventile",
+      "definition": "",
+      "beispiele": "Haben die Aufgabe, die Steuerung und Regelung von Gas- und Flüssigkeitsmengen entsprechend der elektrischen Signale des Steuergeräts zu ermöglichen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Elektromotoren",
+      "definition": "",
+      "beispiele": "Haben die Aufgabe, mechanische Systeme anzutreiben.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Nutzfahrzeuge (NKW)",
+      "definition": "",
+      "beispiele": "Dienen je nach Bauart und Einrichtungen der Beförderung von Personen oder Gütern sowie als Zugmaschinen für Fahrzeugkombinationen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Anhängerfahrzeuge",
+      "definition": "",
+      "beispiele": "Sind nicht selbstfahrende Straßenfahrzeuge, die von Kraftfahrzeugen mitgeführt werden.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Kraftstoffversorgungssystem",
+      "definition": "",
+      "beispiele": "Hat die Aufgabe, den Kraftstoff vom Kraftstoffbehälter zur Einspritzpumpe zu fördern und zu reinigen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Reiheneinspritzpumpe",
+      "definition": "",
+      "beispiele": "Hat die Aufgabe, den Kraftstoff unter hohem Druck zu den Einspritzdüsen zu fördern und die Einspritzmenge je nach Betriebszustand zu dosieren.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Drehzahlregelung",
+      "definition": "",
+      "beispiele": "Hat die Aufgabe, die Leerlauf-Drehzahl konstant zu halten und die Höchstdrehzahl zu begrenzen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Spritzverstellung",
+      "definition": "",
+      "beispiele": "Hat die Aufgabe, den Einspritzzeitpunkt mit steigender Motor-Drehzahl nach früh zu verstellen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Einspritzdüsen",
+      "definition": "",
+      "beispiele": "Haben die Aufgabe, den Kraftstoff fein zu zerstäuben und mit der richtigen Strahlform in den Verbrennungsraum zu spritzen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Elektro-pneumatische Schaltsysteme",
+      "definition": "",
+      "beispiele": "Eine mechanische Verbindung zwischen Schalthebel und Getriebe ist bei elektro-pneumatischen Schaltsystemen nicht vorhanden.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Niveauregulierung",
+      "definition": "",
+      "beispiele": "Die Niveauregulierung hat die Aufgabe, das Fahrzeugniveau unabhängig von der Beladung konstant zu halten.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Druckluftbremsanlagen - Feststellbremse",
+      "definition": "",
+      "beispiele": "Bei Druckluftbremsanlagen wird die Betätigungskraft für die Feststellbremse durch die Spannkraft einer Druckfeder erzeugt.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Dauerbremse (Dritte Bremse)",
+      "definition": "",
+      "beispiele": "Die Dauerbremse ist eine verschleißfreie Zusatzbremse zur Entlastung der Radbremsen.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Steilschulterfelgen",
+      "definition": "",
+      "beispiele": "Sind ungeteilte Tiefbettfelgen mit einer Felgenschulterneigung von 15 Grad.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Schrägschulterfelgen",
+      "definition": "",
+      "beispiele": "Sind geteilte Flachbettfelgen oder ungeteilte Tiefbettfelgen mit einer Felgenschulterneigung von 5 Grad.",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Reifen bei Nutzfahrzeugen",
+      "definition": "",
+      "beispiele": "Für Nutzfahrzeuge werden überwiegend schlauchlose Stahlgürtelreifen (Radialreifen) verwendet.",
+      "merkhilfen": "",
+      "quellen": ""
+    }
+  ],
+  "unterrichten": [
+    {
       "begriff": "",
       "definition": "",
       "beispiele": "",
@@ -635,7 +1127,6 @@
       "quellen": ""
     }
   ],
-  "unterrichten": [],
   "ausbilden": [],
   "weiterbilden": [],
   "erziehen": [],
