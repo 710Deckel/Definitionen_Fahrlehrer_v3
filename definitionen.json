@@ -1,5 +1,13 @@
 {
-  "verkehrsverhalten": [],
+  "verkehrsverhalten": [
+    {
+      "begriff": "",
+      "definition": "",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    }
+  ],
   "recht": [],
   "technik": [],
   "unterrichten": [],
