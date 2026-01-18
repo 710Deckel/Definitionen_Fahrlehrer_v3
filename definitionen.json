@@ -27,6 +27,272 @@
       "beispiele": "",
       "merkhilfen": "",
       "quellen": ""
+    },
+    {
+      "begriff": "Gefährden (§ 1 Abs. 2 StVO)",
+      "definition": "Schaffen einer Gefahrensituation, wobei es nur durch besondere Umstände oder das reaktionsschnelle Handeln eines anderen nicht zu einer Schädigung gekommen ist (z.B. durch plötzliches Türöffnen).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Gefährdung oder Schädigung durch (§ 1 Abs. 2 StVO)",
+      "definition": "Verkehrswidriges Verhalten (Nichtbeachten der Verkehrsvorschriften), mangelnde Eignung (körperliche oder geistige Eignung: Brille, Kopfschmerzen, Kleidung, Schuhe), vernachlässigte Wartung des Fahrzeugs. Zur Betriebssicherheit gehören: Wasser, Öl, Luft, Kraftstoff, elektrische Anlagen. Zur Verkehrssicherheit gehören: Reifenprofiltiefe, Sicht, Licht, Gurt.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Behindern (§ 1 Abs. 2 StVO)",
+      "definition": "Beeinträchtigung der Bewegungsfreiheit und Behinderung des Fortkommens im Straßenverkehr.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Belästigen (§ 1 Abs. 2 StVO)",
+      "definition": "Bereiten eines Unbehagens (vermeidbar oder unvermeidbar), z.B. quietschende Reifen, laute Musik, Abgas.\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Vermeidbare Belästigung/Behinderung",
+      "definition": "In zweiter Reihe parken (auch Lieferanten), Liegenbleiben wegen Kraftstoffmangels.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Unvermeidbare Belästigung/Behinderung",
+      "definition": "Panne, Motorschaden oder jegliche unvorhersehbare Schäden.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Straße (§ 1 Abs. 1 StVO)",
+      "definition": "Der gesamte öffentliche Verkehrsbereich, der für alle Verkehrsteilnehmer bestimmt ist.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Fahrbahn",
+      "definition": "Der Teil der Straße, den die Fahrzeuge benutzen müssen.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Fahrstreifen",
+      "definition": "Der Teil einer Fahrbahn, den ein mehrspuriges Fahrzeug zum ungehinderten Fahren im Verlauf der Fahrbahn benötigt.\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Vertrauensgrundsatz",
+      "definition": "Nur wer sich im Straßenverkehr selbst richtig verhält, darf darauf vertrauen, dass es die anderen auch tun. Ausgeschlossen hiervon sind Kinder, Ältere und Hilfsbedürftige.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Angepasste Geschwindigkeit (§ 3 Abs. 1 StVO)",
+      "definition": "Die Geschwindigkeit, bei der ich mein Fahrzeug immer \"in der Hand\" habe. Es muss immer und überall mit angepasster Geschwindigkeit gefahren werden. Sie ist abhängig von subjektiven und objektiven Einflüssen.\n\n",
+      "beispiele": "7 Faktoren der angepassten Geschwindigkeit\n1. Wetterverhältnisse\n2. Sichtverhältnisse\n3. Straßenverhältnisse\n4. Persönliche Fähigkeiten\n5. Eigenschaften von Fahrzeug\n6. Ladung\n7. Verkehrsverhältnisse\n",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Schrittgeschwindigkeit",
+      "definition": "Die Geschwindigkeit, die im Durchschnitt zu Fuß benötigt wird, um in einer Stunde eine gewisse Anzahl an km zu gehen (4 bis 7 km/h). Beispiele: an Bussen mit Warnblinker auf meiner Seite, an Bussen mit Warnblinker auf der anderen Seite, verkehrsberuhigter Bereich.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Mäßige Geschwindigkeit",
+      "definition": "Die Geschwindigkeit, mit der man den Bevorrechtigten zeigt, dass man sein Vorrecht einhalten wird. Die mäßige Geschwindigkeit ist eine speziell angepasste Geschwindigkeit - meist deutlich unterhalb der zugelassenen Höchstgeschwindigkeit. In folgenden Paragraphen konkret erwähnt:\n- § 5 Abs. 8: Mofa, Rad → Ampel Rot → Rechts 10 km/h\n- § 8 Abs. 1: Kreuzung/Einmündung übersichtlich\n- § 9 Abs. 5: Rechtsabbieger Fußgänger/Radfahrer\n- § 10 Abs. 1: Einfahren, Anfahren",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Überholen (§ 5 Abs. 1 StVO)",
+      "definition": "Ein Fahrzeug überholt, wenn es sich von hinten nach vorne an einem anderen Fahrzeug, das sich in Fahrt befindet oder das nur aus Verkehrsgründen oder aufgrund einer Anordnung kurz anhält, vorbeibewegt.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Vorbeifahren (§ 6 StVO)",
+      "definition": "Ein Fahrzeug fährt vorbei an:\n- einem Fahrzeug des ruhenden Verkehrs\n- Hindernissen (Unfallfahrzeuge, Baustellen, Verkehrsinseln)\n- Fahrbahnverengungen",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Bei nachfolgenden Fahrzeugen \"soweit möglich\" (§ 5 StVO)",
+      "definition": "Bedeutet, dass ausnahmsweise eine Verkehrslage gegeben sein muss oder kann, die eine vorübergehende Behinderung der Straßenbahn im Interesse des gesamten Verkehrsablaufs notwendig macht. Es muss zum Beispiel keine Vollbremsung gemacht werden.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Überholverbote - Auflistung",
+      "definition": "",
+      "beispiele": "- Verkehrszeichen 276 und 277\n- Unklare Verkehrslage (z.B. Ortsdurchfahrt, Witterungsbedingungen)\n- Unübersichtliche Strecke (komplette Überholstrecke muss einsehbar sein)\n- An Fußgängerüberwegen\n- Rechts überholen (Ausnahmen gibt es hier)\n- Bushaltestelle (wenn Schul- oder Linienbusse mit eingeschaltetem Warnblinklicht heranfahren)\n- Wenn Gegenverkehr oder nachfolgender Verkehr behindert wird\n- Bei nicht ausreichendem Seitenabstand\n- Wenn der Vordermann bereits beim Überholen ist\n- Bei einem Fahrstreifen für eine Richtung\n- Fahrstreifenbegrenzung (muss überfahren werden)\n- Zeichen 295 und 296 (durchgezogene Linie = indirektes Überholverbot)\n- Wenn Geschwindigkeit nicht wesentlich höher (ein Drittel bis ein Viertel schneller, aber Autobahn mindestens 20 km/h)\n- Autobahn bei 3 Fahrstreifen für eine Richtung für LKW\n",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Abbiegen (§ 9 StVO)",
+      "definition": "Verlassen des natürlichen Fahrwegs. Rechtzeitiges und deutliches Ankündigen durch Fahrtrichtungsanzeiger (Blinker). Einordnen muss rechtzeitig erfolgen. Wenn nur 1 Streifen markiert ist, dann darf selbst gewählt werden, wie man abbiegt, vorausgesetzt es geht zweispurig weiter.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Halten (§ 12 Abs. 2 StVO)",
+      "definition": "Aufstellen eines Fahrzeugs, wenn es nicht verlassen wird oder bis zu maximal 3 Minuten abgestellt wird. Kein Parken, wenn der Fahrer Zugriff auf das Fahrzeug hat. Besondere Regelungen für Verkehrszeichen (eingeschränktes Halteverbot).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Parken (§ 12 Abs. 2 StVO)",
+      "definition": "Wer sein Fahrzeug verlässt oder länger als drei Minuten hält, der parkt.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Liegenbleiben",
+      "definition": "Wenn ein mehrspuriges Fahrzeug sich nicht mehr aus eigener Kraft bewegen kann bzw. bei Anhängern das Anhängen nicht mehr funktioniert und dadurch die Fortbewegung durch ein ziehendes Fahrzeug nicht möglich ist.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Gefahrzeichen (§ 40 StVO)",
+      "definition": "Verkehrszeichen, die vor spezifischen Gefahrenstellen warnen (z.B. Kurven, Tiere, Kinder). Sie stehen nur dort, wo sie unbedingt notwendig sind: in Situationen, in denen niemand die Gefahr erkennen kann und auch nicht mit ihr rechnen muss. Sie mahnen \"eine Gefahr an\" und stehen üblicherweise 150-250 m vor der Gefahrenstelle außerhalb geschlossener Ortschaften.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Vorschriftzeichen (§ 41 StVO)",
+      "definition": "Verkehrszeichen, die Gebote und Verbote festlegen (z.B. Geschwindigkeitsbegrenzung, Halte- oder Parkverbot, Vorfahrt). Sie drücken verbindliche Regelungen aus und müssen befolgt werden.\n\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Richtzeichen (§ 42 StVO)",
+      "definition": "Verkehrszeichen, die Hinweise und Informationen zur Verkehrsführung geben (z.B. Wegweiser, Parkplatzsymbole, Ortschaftsanfang/-ende). Sie erleichtern den Verkehrsfluss, enthalten aber meist keine direkten Gebote oder Verbote.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Zusatzzeichen",
+      "definition": "Kleine Verkehrszeichen auf weißem Grund mit schwarzem Rand, die unter anderen Zeichen angebracht werden. Sie schränken die Verkehrszeichen darüber ein oder ergänzen sie (z.B. zeitliche Gültigkeit \"8-18 Uhr\", Ausnahmen \"ausgenommen Anwohner\").",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Verkehrseinrichtungen (§ 43 StVO)",
+      "definition": "Bauliche oder technische Anlagen wie Ampelanlagen, Schranken, Leitpfosten oder Blinklichter, die den Verkehr regeln. Sie ersetzen oder ergänzen Verkehrszeichen und haben Vorrang vor den allgemeinen Verkehrsregeln.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Analoge Verkehrszeichen",
+      "definition": "Zeichen, bei denen ich anhand von Bild und Schrift erkenne, was sie bedeuten.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Digitale Verkehrszeichen",
+      "definition": "Zeichen, die ich kennen muss, z.B. \"Vorfahrt gewähren\".",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Rettungsgasse (§ 11 Abs. 2 StVO)",
+      "definition": "Im stockenden Verkehr auf Straßen mit mindestens zwei Fahrstreifen je Richtung (Autobahn oder Außerorts) müssen alle Fahrzeuge zwischen äußerstem linken und daneben liegenden Fahrstreifen einen freien Korridor für Einsatzfahrzeuge bilden. Dies soll Polizei, Feuerwehr und Rettungsdienst freie Fahrt ermöglichen.\n",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Reaktionsweg",
+      "definition": "Der Weg, den das Fahrzeug während der Reaktionszeit des Fahrers zurücklegt, bevor die Bremsung einsetzt. Er berechnet sich aus Reaktionszeit (ca. 0,8-1,2 Sekunden) mal Geschwindigkeit. Der Reaktionsweg wächst linear mit der Geschwindigkeit. Faustformel: (Geschwindigkeit in km/h ÷ 10) × 3 = Reaktionsweg in Metern.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Bremsweg",
+      "definition": "Die Strecke, die ein Fahrzeug ab dem Zeitpunkt der vollständigen Betätigung der Bremsen bis zum Stillstand zurücklegt. Der Bremsweg hängt stark von Geschwindigkeit, Bremskraft, Straßenverhältnissen und Reibung ab. Bei konstanter Geschwindigkeit auf gerader Strecke: (Geschwindigkeit ÷ 10)² = Bremsweg in Metern.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Anhalteweg",
+      "definition": "Gesamtstrecke vom Erkennen einer Gefahr bis zum vollständigen Stillstand des Fahrzeugs. Er setzt sich aus Reaktionsweg und Bremsweg zusammen: Anhalteweg = Reaktionsweg + Bremsweg.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Toter Winkel",
+      "definition": "Bereiche um das Fahrzeug, die weder durch die Außenspiegel noch durch den Innenspiegel einsehbar sind. Der Schulterblick ist nötig, um diese \"toten Winkel\" vor dem Spurwechsel oder Abbiegen kontrollieren zu können.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Beobachtung",
+      "definition": "Bewusstes Kontrollieren der Verkehrsumgebung mithilfe von Innenspiegel, Außenspiegel und Blick über die Schulter. Eine umfassende Beobachtung des Verkehrsgeschehens ist vor Spurwechseln, Abbiegevorgängen und beim Anfahren Pflicht.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Sicherheitsabstand",
+      "definition": "Die für die jeweilige Geschwindigkeit erforderliche Distanz zum vorausfahrenden Fahrzeug, die im Notfall genügend Zeit zum Reagieren lässt. Im fließenden Verkehr gilt die Regel, etwa zwei Sekunden Abstand (oder halber Tachowert in Metern) einzuhalten.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Aquaplaning (Wasserglätte)",
+      "definition": "Zustand, in dem sich eine Wasserschicht unter den Reifen aufbaut, sodass die Reifen den Kontakt zur Fahrbahn verlieren. Dies geschieht z.B. auf nasser Fahrbahn bei hohem Tempo. Dadurch können Lenk- und Bremsimpulse nicht mehr wirksam übertragen werden.",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "Notbremsung (Gefahrenbremsung)",
+      "definition": "Eine Vollbremsung, die in einer akuten Gefahrensituation eingeleitet wird, um das Fahrzeug so schnell wie möglich zum Stehen zu bringen. Sie wird in der praktischen Prüfung abgefragt und soll Auffahrunfälle verhindern (Bremse wird mit maximaler Kraft durchgetreten).",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
+    },
+    {
+      "begriff": "",
+      "definition": "",
+      "beispiele": "",
+      "merkhilfen": "",
+      "quellen": ""
     }
   ],
   "recht": [],
